@@ -169,7 +169,7 @@ function Home({ changeTheme, theme, sortedChains }) {
               <div className={classes.socials}>
                 <a
                   className={`${classes.socialButton}`}
-                  href="https://github.com/DefiLlama/chainlist"
+                  href="https://github.com/ImpossibleFinance/chainlist/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
