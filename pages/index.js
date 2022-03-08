@@ -143,7 +143,7 @@ function Home({ changeTheme, theme, sortedChains }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Impossible Chainlist</title>
+        <title>Impossible Maintained Chainlist</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -160,7 +160,8 @@ function Home({ changeTheme, theme, sortedChains }) {
               <Typography className={classes.subTitle}>
                 Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3
                 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain.
-                This repository is currently maintained by <a style="color:#00FFB9;text-decoration: underline;" target="_blank" href="https://impossible.finance" rel="noopener noreferrer">impossible.finance </a>
+            
+                This repository is currently maintained by <a style={{"color:#00FFB9"}} target="_blank" href="https://impossible.finance" rel="noopener noreferrer">impossible.finance </a>
               </Typography>
               <Button
                 size="large"
