@@ -143,7 +143,7 @@ function Home({ changeTheme, theme, sortedChains }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Chainlist</title>
+        <title>Impossible Chainlist</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
