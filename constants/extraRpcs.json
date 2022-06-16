@@ -463,6 +463,12 @@
             "https://api.roninchain.com/rpc"
         ]
     },
+    "73772": {
+        "rpcs":[
+            "https://avax-cra.gateway.pokt.network/v1/lb/627e246225a687003a6a13b7/ext/bc/2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX/rpc"
+        ]
+    },
+
     "64":{
         "rpcs":[
         
