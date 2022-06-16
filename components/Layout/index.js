@@ -32,6 +32,7 @@ export default function Layout({ changeTheme, theme, children }) {
             <div className={classes.copyCentered}>
               <Typography variant="h1" className={classes.chainListSpacing}>
                 <Link href="/">
+<<<<<<< HEAD
                   <span className={classes.helpingUnderline}>Chainlist</span>
                 </Link>
               </Typography>
@@ -43,6 +44,16 @@ export default function Layout({ changeTheme, theme, children }) {
                 information to connect their wallets and Web3 middleware
                 providers to the appropriate Chain ID and Network ID to connect
                 to the correct chain.
+=======
+                  <span className={classes.helpingUnderline}>Impossible Chainlist</span>
+                </Link>
+              </Typography>
+              <Typography variant="h2" className={classes.helpingParagraph}>
+              Helping users connect to EVM powered networks with one click
+              </Typography>
+              <Typography className={classes.subTitle}>
+              Chainlist is a list of EVM networks. Users can use the information to connect their wallets and Web3 middleware providers to the appropriate Chain ID and Network ID to connect to the correct chain. This repository is currently maintained by <a target="_blank" href="https://impossible.finance">impossible.finance</a>
+>>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
               </Typography>
               <Button
                 size="large"
@@ -71,7 +82,11 @@ export default function Layout({ changeTheme, theme, children }) {
               <div className={classes.socials}>
                 <a
                   className={`${classes.socialButton}`}
+<<<<<<< HEAD
                   href="https://github.com/DefiLlama/chainlist"
+=======
+                  href="https://github.com/ImpossibleFinance/chainlist"
+>>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -88,7 +103,11 @@ export default function Layout({ changeTheme, theme, children }) {
 
                 <a
                   className={`${classes.socialButton}`}
+<<<<<<< HEAD
                   href="https://discord.com/invite/buPFYXzDDd"
+=======
+                  href="https://discord.gg/mdrGpWPR7h"
+>>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
                   target="_blank"
                   rel="noopener noreferrer"
                 >
