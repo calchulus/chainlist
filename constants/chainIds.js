@@ -52,14 +52,11 @@ const chainIds = {
   42262: "oasis",
   43114: "avalanche",
   71394: "godwoken",
-<<<<<<< HEAD
-  73772: "swimmer"
-=======
   73772: "swimmer",
->>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
   333999: "polis",
   1313161554: "aurora",
   1666600000: "harmony",
+  2046399126: "europa",
   11297108109: "palm",
   836542336838601: "curio",
 };
