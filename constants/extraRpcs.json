@@ -297,6 +297,11 @@
             "https://rpc.meter.io"
         ]
     },
+      "2046399126":{
+        "rpc": [
+            "https://mainnet.skalenodes.com/v1/elated-tan-skat"
+        ]
+    },
     "5551":{
         "rpcs":[
             "https://l2.nahmii.io/"
@@ -463,15 +468,11 @@
             "https://api.roninchain.com/rpc"
         ]
     },
-<<<<<<< HEAD
     "73772": {
         "rpcs":[
             "https://avax-cra.gateway.pokt.network/v1/lb/627e246225a687003a6a13b7/ext/bc/2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX/rpc"
         ]
     },
-
-=======
->>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
     "64":{
         "rpcs":[
         
@@ -927,10 +928,6 @@
             "rpcWorking:false"
         ]
     },
-<<<<<<< HEAD
-=======
-   
->>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
     "10101":{
         "rpcs":[
             "https://eu.mainnet.xixoio.com"
@@ -1287,14 +1284,12 @@
             "https://s2.api.harmony.one"
         ]
     },
-<<<<<<< HEAD
-=======
+
     "73772":{
         "rpcs":[
             "https://avax-cra.gateway.pokt.network/v1/lb/627e246225a687003a6a13b7/ext/bc/2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX/rpc"
         ]
     },
->>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
     "1666600003":{
         "rpcs":[
             
