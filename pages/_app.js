@@ -38,17 +38,10 @@ function MyApp({ Component, pageProps }) {
   }, []);
 
   useEffect(() => {
-<<<<<<< HEAD
-    Fathom.load('TKCNGGEZ', {
-      includedDomains: ['chainlist.defillama.com', 'chainlist.org'],
+    Fathom.load('VIJRFJGW', {
+      includedDomains: ['impossiblechainlist.vercel.app'],
       url: 'https://surprising-powerful.llama.fi/script.js',
     });
-=======
-    // Fathom.load('VIJRFJGW', {
-    //   includedDomains: ['impossiblechainlist.vercel.app'],
-    //   url: 'https://surprising-powerful.llama.fi/script.js',
-    // });
->>>>>>> ab355cfcf7c6cc8b01600765bf609e855b3f91a2
 
     function onRouteChangeComplete() {
       Fathom.trackPageview();
